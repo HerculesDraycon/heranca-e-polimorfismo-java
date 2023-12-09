@@ -1,0 +1,2 @@
+O sistema criado gera o cadastro de objetos instanciados nas classes filho da classe Pessoa, que é abstrata. A classe Gerente herda da classe Funcionario e cada classe tem seus respectivos métodos.
+Também é gerada a classe Cliente que herda de Pessoa. Em App são criados os objetos e chamados os métodos, alguns métodos possuem assinatura Override por conta do polimorfismo entre classes, como o calculaImposto() por exemplo.
